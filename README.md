@@ -1,1 +1,3 @@
-# Agrianalyst--Smart-Agriculture-Decision-Support-System
+<h2>Agrianalyst--Smart-Agriculture-Decision-Support-System </h2>
+
+<p>This project is a <u>Flask web application </u> for predicting crop suggestions based on <b>soil health analysis </b>. It utilizes a machine learning model trained on soil parameters like <u>Nitrogen, Potassium, Phosphorus, temperature, humidity, pH, and rainfall.</u> <br> Users can input these parameters through a web form, and the application provides crop recommendations based on the input. It also provides an API endpoint for direct predictions. The front-end is built using <b> HTML and CSS </b> while the back-end logic is implemented in Python using Flask.</p>
